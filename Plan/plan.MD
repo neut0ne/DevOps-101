@@ -1,4 +1,4 @@
-🧠 Plan Phase
+🧠 DevOps-101 Plan Phase
 
 The Plan phase sets the foundation for secure, high-quality software development. In this stage, teams:
 
